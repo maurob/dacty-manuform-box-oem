@@ -16,4 +16,13 @@ from the [foostan crkbd repo](https://github.com/foostan/crkbd).
 
 ![Schematic preview](docs/corne-light-sch.png)
 
+### Building
+
+To avoid the discontinuity of the keycup OEM profile, I used just the keycups from the numbers row
+and the Fn (etc.) row.
+
+![front](docs/keyboard-right-front.jpg)
+
+![aligment](docs/keyboard-right-alignments.jpg)
+
 
