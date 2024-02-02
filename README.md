@@ -25,4 +25,8 @@ and the Fn (etc.) row.
 
 ![aligment](docs/keyboard-right-alignments.jpg)
 
+Diodes are placed in the `COL2ROW` configuration, as it's seen in the schematic.
+
+![diodes](docs/keyboard-right-diodes.jpg)
+
 
