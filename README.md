@@ -29,4 +29,15 @@ Diodes are placed in the `COL2ROW` configuration, as it's seen in the schematic.
 
 ![diodes](docs/keyboard-right-diodes.jpg)
 
+Key wiring.
+
+![wiring](docs/keyboard-right-wiring.jpg)
+
+I added a 3-wires cable for the serial communication between split parts.
+
+![serial](docs/keyboard-right-serial.jpg)
+
+Finally, the dactyl manuform box oem connected to the corne chocolate.
+
+![corne-manuform](docs/corne-manuform.jpg)
 
